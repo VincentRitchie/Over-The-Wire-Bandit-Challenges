@@ -4,15 +4,15 @@
 ## Levels Contents
 
 - [Level-1](#level-1)
-- [Level 2](#level_2)
-- [Level 3](#level_3)
-- [Level 4](#level4)
-- [Level 5](#level5)
-- [Level 6](#level6)
-- [Level 7](#level7)
-- [Level 8](#level8)
-- [Level 9](#level9)
-- [Level 10](#level10)
+- [Level-2](#level-2)
+- [Level-3](#level-3)
+- [Level-4](#level-4)
+- [Level-5](#level5)
+- [Level-6](#level-6)
+- [Level-7](#level-7)
+- [Level-8](#level-8)
+- [Level-9](#level-9)
+- [Level-10](#level-10)
 
 ## Level 1
 <a>
