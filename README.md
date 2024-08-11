@@ -3,7 +3,7 @@
 
 ## Levels Contents
 
-- [Level 1](#level_1)
+- [Level-1](#level-1)
 - [Level 2](#level_2)
 - [Level 3](#level_3)
 - [Level 4](#level4)
@@ -62,7 +62,7 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 
 ### Screenshot
 <a>
-  <img src="https://overthewire.org/wargames/bandit/bandit.png" alt="Bandit Logo" width="650" />
+  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/Bandit%20Level%202.png" alt="Bandit Logo" width="650" />
 </a>
 
 ## Level 2
@@ -116,13 +116,13 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 
 ### Screenshot
 <a>
-  <img src="#" alt="Bandit Logo" width="650" />
+  <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/Bandit%20Level%202.png" alt="Bandit Logo" width="650" />
 </a>
 
 ## Level 3
 
 <a>
-  <img src="https://github.com/VincentRitchie/VincentRitchie/blob/main/OTW-Bandit%20Level%202.jpeg" alt="Bandit Logo" width="650" />
+  <img src="#" alt="Bandit Logo" width="650" />
 </a>
 
 ## Table of Contents
