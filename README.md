@@ -3,9 +3,9 @@
 
 ## Levels Contents
 
-- [Level 1](#level1)
-- [Level 2](#level2)
-- [Level 3](#level3)
+- [Level 1](#level_1)
+- [Level 2](#level_2)
+- [Level 3](#level_3)
 - [Level 4](#level4)
 - [Level 5](#level5)
 - [Level 6](#level6)
@@ -16,7 +16,7 @@
 
 ## Level 1
 <a>
-  <img src="https://overthewire.org/wargames/bandit/bandit.png" alt="Bandit Logo" width="650" />
+  <img src="https://github.com/VincentRitchie/VincentRitchie/blob/main/OTW-Bandit%20Level%201.jpeg" width="650" />
 </a>
 
 ## Level 1 Table of Contents
@@ -68,7 +68,7 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 ## Level 2
 
 <a>
-  <img src="https://overthewire.org/wargames/bandit/bandit.png" alt="Bandit Logo" width="650" />
+  <img src="https://github.com/VincentRitchie/VincentRitchie/blob/main/OTW-Bandit%20Level%202.jpeg" alt="Bandit Logo" width="650" />
 </a>
 
 ## Level 2 Table of Contents
@@ -116,13 +116,13 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 
 ### Screenshot
 <a>
-  <img src="https://overthewire.org/wargames/bandit/bandit.png" alt="Bandit Logo" width="650" />
+  <img src="#" alt="Bandit Logo" width="650" />
 </a>
 
 ## Level 3
 
 <a>
-  <img src="https://overthewire.org/wargames/bandit/bandit.png" alt="Bandit Logo" width="650" />
+  <img src="https://github.com/VincentRitchie/VincentRitchie/blob/main/OTW-Bandit%20Level%202.jpeg" alt="Bandit Logo" width="650" />
 </a>
 
 ## Table of Contents
