@@ -60,11 +60,13 @@ ssh bandit1@bandit.labs.overthewire.org -p 2220
 ### Usage
 Follow the steps in the pseudocode to connect to the Bandit server and retrieve the password for the next level.
 
-### Screenshot
+### Level 1 Screenshot
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/Bandit%20Level%201.png" alt="Bandit Logo" width="650" />
 </a>
-
+<br>
+<br>
+<br>
 ## Level 2
 
 <a>
@@ -114,66 +116,13 @@ ssh bandit2@bandit.labs.overthewire.org -p 2220
 ### Usage
 Follow the steps in the pseudocode to connect to the Bandit server and retrieve the password for the next level.
 
-### Screenshot
+### Level 2 Screenshot
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/Bandit%20Level%202.png" alt="Bandit Logo" width="650" />
 </a>
-
-## Level 3
-
-<a>
-  <img src="#" alt="Bandit Logo" width="500" />
-</a>
-
-## Table of Contents
-- [Description](#description)
-- [Pseudocode](#pseudocode)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshot](#screenshot)
-
-### Description
-In Level 3, access a file with spaces in its name.
-
-### Pseudocode
-```
-1. Open the terminal.
-2. Use SSH to connect to the Bandit server:
-   ```
-   ssh bandit3@bandit.labs.overthewire.org -p 2220
-   ```
-3. Enter the password: `<password_from_level_2>`.
-4. Once connected, list files to locate the file with spaces:
-   ```
-   ls
-   ```
-5. Use the `cat` command with escape characters to read the file:
-   ```
-   cat ./spaces\ in\ this\ filename
-   ```
-6. Record the password displayed for the next level.
-```
-
-### Features
-- **Handling Spaces in Filenames:** Learn to handle filenames with spaces.
-- **File Access:** Techniques to access and read files with special characters in their names.
-
-### Installation
-To begin the challenge, ensure you have a terminal with SSH capabilities:
-```sh
-ssh bandit3@bandit.labs.overthewire.org -p 2220
-```
-
-### Usage
-Follow the steps in the pseudocode to connect to the Bandit server and retrieve the password for the next level.
-
-### Screenshot
-<a>
-  <img src="https://overthewire.org/wargames/bandit/bandit.png" alt="Bandit Logo" width="650" />
-</a>
-
-
+<br>
+<br>
+<br>
 ## Level 3
 
 <a>
@@ -226,14 +175,15 @@ ssh bandit3@bandit.labs.overthewire.org -p 2220
 ### Usage
 Follow the steps in the pseudocode to connect to the Bandit server and retrieve the password for the next level.
 
-### Screenshot
+### Level 3 Screenshot
 
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20Bandit%20Level%203.png
 " alt="Bandit Logo" width="650" />
 </a>
-
-
+<br>
+<br>
+<br>
 ## Level 4
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20banditcover.png" alt="Bandit Logo" height="350" width="650" />
@@ -277,12 +227,14 @@ ssh bandit4@bandit.labs.overthewire.org -p 2220
 ### Usage
 Follow the steps in the pseudocode to connect to the Bandit server and retrieve the password for the next level.
 
-### Screenshot
+### Level 4 Screenshot
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20Bandit%20Level%204.png
 " alt="Bandit Logo" width="650" />
 </a>
-
+<br>
+<br>
+<br>
 ## Level 5
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20banditcover.png" alt="Bandit Logo" height="350" width="650" />
@@ -329,11 +281,13 @@ ssh bandit5@bandit.labs.overthewire.org -p 2220
 ### Usage
 Follow the steps in the pseudocode to connect to the Bandit server and retrieve the password for the next level.
 
-### Screenshot
+### Level 5 Screenshot
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20Bandit%20Level%205.png" alt="Bandit Logo" width="650" />
 </a>
-
+<br>
+<br>
+<br>
 ## Level 6
 
 <a>
@@ -380,12 +334,13 @@ ssh bandit6@bandit.labs.overthewire.org -p 2220
 ### Usage
 Follow the steps in the pseudocode to connect to the Bandit server and retrieve the password for the next level.
 
-### Screenshot
+### Level 6 Screenshot
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20Bandit%20Level%206.png" alt="Bandit Logo" width="650" />
 </a>
-
-
+<br>
+<br>
+<br>
 ## Level 7
 
 <a>
@@ -430,12 +385,13 @@ ssh bandit7@bandit.labs.overthewire.org -p 2220
 ### Usage
 Follow the steps in the pseudocode to connect to the Bandit server and retrieve the password for the next level.
 
-### Screenshot
+### Level 7 Screenshot
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20Bandit%20Level%207.png" alt="Bandit Logo" width="650" />
 </a>
-
-
+<br>
+<br>
+<br>
 ## Level 8
 
 <a>
@@ -482,12 +438,13 @@ ssh bandit8@bandit.labs.overthewire.org -p 2220
 ### Usage
 Follow the steps in the pseudocode to connect to the Bandit server and retrieve the password for the next level.
 
-### Screenshot
+### Level 8 Screenshot
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW-Bandit%20Level%208.png" alt="Bandit Logo" width="650" />
 </a>
-
-
+<br>
+<br>
+<br>
 ## Level 9
 
 <a>
@@ -534,12 +491,13 @@ ssh bandit9@bandit.labs.overthewire.org -p 2220
 ### Usage
 Follow the steps in the pseudocode to connect to the Bandit server and retrieve the password for the next level.
 
-### Screenshot
+### Level 9 Screenshot
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20Bandit%20Level%209.png" alt="Bandit Logo" width="650" />
 </a>
-
-
+<br>
+<br>
+<br>
 ## Level 10
 
 <a>
@@ -586,10 +544,12 @@ ssh bandit10@bandit.labs.overthewire.org -p 2220
 ### Usage
 Follow the steps in the pseudocode to connect to the Bandit server and retrieve the password for the next level.
 
-### Screenshot
+### Level 10 Screenshot
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20Bandit%20Level%2010.png" alt="Bandit Logo" width="650" />
 </a>
-
+<br>
+<br>
+<br>
 
 #### Level 11 - 20 loading...
