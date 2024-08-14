@@ -117,12 +117,15 @@ ssh bandit2@bandit.labs.overthewire.org -p 2220
 Follow the steps in the pseudocode to connect to the Bandit server and retrieve the password for the next level.
 
 ### Level 2 Screenshot
+
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/Bandit%20Level%202.png" alt="Bandit Logo" width="650" />
 </a>
+
 <br>
 <br>
 <br>
+
 ## Level 3
 
 <a>
@@ -181,10 +184,13 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20Bandit%20Level%203.png
 " alt="Bandit Logo" width="650" />
 </a>
+
 <br>
 <br>
 <br>
+
 ## Level 4
+
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20banditcover.png" alt="Bandit Logo" height="350" width="650" />
 </a>
@@ -228,13 +234,16 @@ ssh bandit4@bandit.labs.overthewire.org -p 2220
 Follow the steps in the pseudocode to connect to the Bandit server and retrieve the password for the next level.
 
 ### Level 4 Screenshot
+
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20Bandit%20Level%204.png
 " alt="Bandit Logo" width="650" />
 </a>
+
 <br>
 <br>
 <br>
+
 ## Level 5
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20banditcover.png" alt="Bandit Logo" height="350" width="650" />
@@ -285,9 +294,11 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20Bandit%20Level%205.png" alt="Bandit Logo" width="650" />
 </a>
+
 <br>
 <br>
 <br>
+
 ## Level 6
 
 <a>
@@ -335,9 +346,11 @@ ssh bandit6@bandit.labs.overthewire.org -p 2220
 Follow the steps in the pseudocode to connect to the Bandit server and retrieve the password for the next level.
 
 ### Level 6 Screenshot
+
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20Bandit%20Level%206.png" alt="Bandit Logo" width="650" />
 </a>
+
 <br>
 <br>
 <br>
@@ -386,12 +399,15 @@ ssh bandit7@bandit.labs.overthewire.org -p 2220
 Follow the steps in the pseudocode to connect to the Bandit server and retrieve the password for the next level.
 
 ### Level 7 Screenshot
+
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20Bandit%20Level%207.png" alt="Bandit Logo" width="650" />
 </a>
+
 <br>
 <br>
 <br>
+
 ## Level 8
 
 <a>
@@ -442,9 +458,11 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW-Bandit%20Level%208.png" alt="Bandit Logo" width="650" />
 </a>
+
 <br>
 <br>
 <br>
+
 ## Level 9
 
 <a>
@@ -492,12 +510,15 @@ ssh bandit9@bandit.labs.overthewire.org -p 2220
 Follow the steps in the pseudocode to connect to the Bandit server and retrieve the password for the next level.
 
 ### Level 9 Screenshot
+
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20Bandit%20Level%209.png" alt="Bandit Logo" width="650" />
 </a>
+
 <br>
 <br>
 <br>
+
 ## Level 10
 
 <a>
@@ -545,9 +566,11 @@ ssh bandit10@bandit.labs.overthewire.org -p 2220
 Follow the steps in the pseudocode to connect to the Bandit server and retrieve the password for the next level.
 
 ### Level 10 Screenshot
+
 <a>
   <img src="https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-1-10/blob/main/OTW%20-%20Bandit%20Level%2010.png" alt="Bandit Logo" width="650" />
 </a>
+
 <br>
 <br>
 <br>
