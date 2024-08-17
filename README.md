@@ -573,4 +573,5 @@ Follow the steps in the pseudocode to connect to the Bandit server and retrieve 
 <br>
 <br>
 
-#### Level 11 - 20 loading...
+![Level 11 - Level 20](https://github.com/VincentRitchie/Over-The-Wire-Bandit-Challenges-Level-11-20/blob/main/README.md)
+##### Continued...
